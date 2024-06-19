@@ -1,5 +1,8 @@
 /*
- *Color class
+ * Color class
+ * Name: Ian Corsiga
+ * Email: corsiga@wisc.edu
+ * CS User: corsiga
  */
 public class Color{
 	private String color;

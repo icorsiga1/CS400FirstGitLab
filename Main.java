@@ -1,5 +1,8 @@
 /*
- *Test the use of the Color method
+ * Test the use of the Color method
+ * Name: Ian Corsiga
+ * Email: corsiga@wisc.edu
+ * CS User: corsiga
  */
 import java.util.*;
 
